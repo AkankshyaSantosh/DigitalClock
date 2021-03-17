@@ -1,0 +1,18 @@
+*{
+    font-family: cursive;
+}
+canvas{
+    border: 2px solid black;
+    background: #8E7B96;
+}
+
+body{
+    text-align: center;
+    background-image: url(https://image.freepik.com/free-photo/school-supplies-side-border-chalkboard-background_7192-924.jpg);
+background-repeat: no-repeat;
+background-size: 100vw 100vh;
+}
+h1{
+    color: blanchedalmond;
+}
+
